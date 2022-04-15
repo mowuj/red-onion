@@ -5,7 +5,7 @@ import { BsFillCartCheckFill } from "react-icons/bs";
 import logo2 from '../../../images/logo2.png'
 const Header = () => {
     return (
-        <div>
+        <div className='container'>
             <>
 
   <Navbar bg="white" variant="light" >
